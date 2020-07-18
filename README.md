@@ -23,7 +23,7 @@ Hi, I'm Lillian Phyoe, a system engineer 🚀 from Myanmar, graduated from Unive
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on [Ansible,Python,Bash];
+- 👨🏽‍💻 I’m currently working on [Ansible,Python,Bash,docker];
 - 📫 How to reach me: khinpyaephyosan@gmail.com;
 - 📝[Resume](https://drive.google.com/file/d/1PzltvM67Nx7roHoU2mI5qeXE41PfYdGa/view?usp=sharing)
 
@@ -39,6 +39,7 @@ Hi, I'm Lillian Phyoe, a system engineer 🚀 from Myanmar, graduated from Unive
 <code><img height="20" src="https://avatars0.githubusercontent.com/u/2165682?s=200&v=4"></code>
 <code><img height="20" src="https://avatars0.githubusercontent.com/u/8827988?s=200&v=4"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 
 ![lillian's github stats](https://github-readme-stats.vercel.app/api?username=lillianphyoe&show_icons=true&hide_border=true)
 
