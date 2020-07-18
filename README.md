@@ -17,7 +17,7 @@
 <br />
 <br />
 
-Hi, I'm Lillian Phyoe, a system engineer 🚀 from Myanmar, currently, I'm a system engineer at 🙍🏽‍♂️ (https://www.myanmarapn.com/), graduated from University of Information Technology, HPC buddy. Beside's computer science, I enjoy reading books, eating foods and traveling.
+Hi, I'm Lillian Phyoe, a system engineer 🚀 from Myanmar, graduated from University of Information Technology, HPC buddy. Beside's computer science, I enjoy reading books, eating foods and traveling.
 
   <img align="right"  src="https://media1.tenor.com/images/e8a3b80ecb33fd79b04f093cccd2353b/tenor.gif?itemid=15853135" />
   
