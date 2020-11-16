@@ -1,5 +1,5 @@
-### Hey 👋🏽, I'm [Lillian!](https://about.me/lillianphyoe) 
-
+### Hey 👋🏽, I'm [Lillian!](https://about.me/lillianphyoe)    
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lillianphyoe" alt="lillianphyoe" /> </p>   
 <a href="https://twitter.com/lillianphyoe">
   <img align="left" alt="lillianphyoe | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
