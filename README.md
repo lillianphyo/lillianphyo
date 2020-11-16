@@ -32,33 +32,44 @@ Hi, I'm Lillian Phyoe, a system engineer 🚀 from Myanmar, graduated from Unive
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/python.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/mysql.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/git.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/ansible.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
-<code><img height="20" src="https://avatars1.githubusercontent.com/u/153393?s=200&v=4"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/erlang.svg"></code>
 <code><img height="20" src="https://avatars0.githubusercontent.com/u/2165682?s=200&v=4"></code>
 <code><img height="20" src="https://avatars0.githubusercontent.com/u/8827988?s=200&v=4"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="20" src="https://avatars1.githubusercontent.com/u/3380462?s=200&v=4"></code>
-<code><img height="20" src="https://avatars0.githubusercontent.com/u/7195757?s=200&v=4"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/linux.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/docker.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/prometheus.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/grafana.svg"></code>
 <code><img height="20" src="https://avatars1.githubusercontent.com/u/4561226?s=200&v=4"></code>
 <code><img height="20" src="https://avatars0.githubusercontent.com/u/5142645?s=200&v=4"></code>
-<code><img height="20" src="https://avatars0.githubusercontent.com/u/6764390?s=200&v=4"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/elasticsearch.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/elasticstack.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/eclipsemosquitto.svg"></code>
 <code><img height="20" src="https://avatars3.githubusercontent.com/u/6178456?s=200&v=4"></code>
 <code><img height="20" src="https://avatars3.githubusercontent.com/u/24291394?s=200&v=4"></code>
-<code><img height="20" src="https://avatars0.githubusercontent.com/u/473334?s=200&v=4"></code>
 <code><img height="20" src="https://avatars3.githubusercontent.com/u/6748139?s=200&v=4"></code>
 <code><img height="20" src="https://avatars0.githubusercontent.com/u/1282630?s=200&v=4"></code>
 <code><img height="20" src="https://avatars3.githubusercontent.com/u/22860722?s=200&v=4"></code>
 <code><img height="20" src="https://avatars1.githubusercontent.com/u/30269780?s=200&v=4"></code>
-<code><img height="20" src="https://avatars0.githubusercontent.com/u/2232217?s=200&v=4"></code>
-<code><img height="20" src="https://avatars2.githubusercontent.com/u/6165865?s=200&v=4"></code>
-<code><img height="20" src="https://avatars3.githubusercontent.com/u/10251060?s=200&v=4"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/kubernetes.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/vmware.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/amazonaws.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/nutanix.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/postman.svg"></code>
 
+**Operation System:**  
+
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/windows.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/redhat.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/debian.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/freebsd.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/manjaro.svg"></code>
+<code><img height="20" src="https://avatars0.githubusercontent.com/u/5647000?s=200&v=4"></code>
 
 ![lillian's github stats](https://github-readme-stats.vercel.app/api?username=lillianphyoe&show_icons=true&hide_border=true)
 
