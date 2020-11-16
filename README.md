@@ -13,7 +13,7 @@
   <img align="left" alt="lillian's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://developer.cisco.com/user/profile/55aadd53-9704-11e8-9afd-0605a886e7c7">
-  <img align="left" alt="lillian's devnet" width="22px" src="https://avatars0.githubusercontent.com/u/8827988?s=200&v=4" />
+  <img align="left" alt="lillian's devnet" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/cisco.svg" />
 </a>
 
 
