@@ -25,7 +25,7 @@ Hi, I'm Lillian Phyoe, a system engineer 🚀 from Myanmar, graduated from Unive
 
 - 👨🏽‍💻 I’m currently working on [Ansible,Python,Bash,docker];
 - 📫 How to reach me: khinpyaephyosan@gmail.com;
-- 📝[Resume](https://drive.google.com/file/d/1PzltvM67Nx7roHoU2mI5qeXE41PfYdGa/view?usp=sharing)
+<!--- - 📝[Resume](https://drive.google.com/file/d/1PzltvM67Nx7roHoU2mI5qeXE41PfYdGa/view?usp=sharing) -->
 
 **Languages and Tools:**  
 
