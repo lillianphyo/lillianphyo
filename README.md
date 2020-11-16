@@ -1,7 +1,10 @@
 ### Hey 👋🏽, I'm [Lillian!](https://about.me/lillianphyoe)    
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lillianphyoe" alt="lillianphyoe" /> </p>   
+<a href="https://www.youtube.com/c/KhinPyaePhyoSan">
+  <img align="left" alt="lillian's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/youtube.svg" />
+</a>
 <a href="https://twitter.com/lillianphyoe">
-  <img align="left" alt="lillianphyoe | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="lillian's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/lillianphyoe/">
   <img align="left" alt="lillian's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
