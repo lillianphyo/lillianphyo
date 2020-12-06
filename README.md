@@ -20,7 +20,10 @@
 <br />
 <br />
 
-Hi, I'm Lillian Phyoe, a system engineer 🚀 from Myanmar, graduated from University of Information Technology, HPC buddy, Make things happen, Adventurous and Realistic, Happy-Go-Lucky stubborn optimistic Gemini! ♊. Beside's computer science, I enjoy reading books, eating foods and traveling.
+A System Engineer 🚀 who love System Integration. Passsionate about Computer science and software engineering because anything I dream of can become a reality by using one tool,a computer.   
+
+Fav Quote:   
+Make things happen. Adventurous and Realistic Happy-Go-Lucky stubborn optimistic Gemini! ♊
 
 <!--- <img align="right"  src="https://media1.tenor.com/images/e8a3b80ecb33fd79b04f093cccd2353b/tenor.gif?itemid=15853135" /> -->
   
