@@ -20,7 +20,7 @@
 <br />
 <br />
 
-A System Engineer 🚀 who love System Integration. Passsionate about Computer science and software engineering because anything I dream of can become a reality by using one tool,a computer.   
+A System Engineer 🚀 who love System Integration. Passionate about Computer science and software engineering because anything I dream of can become a reality by using one tool,a computer.   
 
 Fav Quote:   
 Make things happen. Adventurous and Realistic Happy-Go-Lucky stubborn optimistic Gemini! ♊
