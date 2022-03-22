@@ -1,5 +1,5 @@
 ### Hey 👋🏽, I'm [Lillian!](https://about.me/lillianphyoe)    
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lillianphyoe" alt="lillianphyoe" /> </p>   
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lillianphyo" alt="lillianphyo" /> </p>   
 <a href="https://www.youtube.com/c/KhinPyaePhyoSan">
   <img align="left" alt="lillian's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/youtube.svg" />
 </a>
