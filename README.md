@@ -3,13 +3,13 @@
 <a href="https://www.youtube.com/c/KhinPyaePhyoSan">
   <img align="left" alt="lillian's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/youtube.svg" />
 </a>
-<a href="https://twitter.com/lillianphyoe">
+<a href="https://twitter.com/lillianphyo">
   <img align="left" alt="lillian's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/lillianphyoe/">
+<a href="https://www.linkedin.com/in/lillianphyo/">
   <img align="left" alt="lillian's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://t.me/lillianphyoe">
+<a href="https://t.me/lillianphyo">
   <img align="left" alt="lillian's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://developer.cisco.com/user/profile/55aadd53-9704-11e8-9afd-0605a886e7c7">
