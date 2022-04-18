@@ -74,20 +74,20 @@ Make things happen. Adventurous and Realistic Happy-Go-Lucky stubborn optimistic
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/manjaro.svg"></code>
 <code><img height="20" src="https://avatars0.githubusercontent.com/u/5647000?s=200&v=4"></code>
 
-![lillian's github stats](https://github-readme-stats.vercel.app/api?username=lillianphyoe&show_icons=true&hide_border=true)
+![lillian's github stats](https://github-readme-stats.vercel.app/api?username=lillianphyo&show_icons=true&hide_border=true)
 
-⭐️ From [lillianphyoe](https://github.com/lillianphyoe)
+⭐️ From [lillianphyoe](https://github.com/lillianphyo)
 
 
-<a href="https://github.com/lillianphyoe/csr1000v_upgrade">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=lillianphyoe&repo=csr1000v_upgrade" />
+<a href="https://github.com/lillianphyo/csr1000v_upgrade">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=lillianphyo&repo=csr1000v_upgrade" />
 </a>
 
-<a href="https://github.com/lillianphyoe/python-gmail-api-test">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=lillianphyoe&repo=python-gmail-api-test" />
+<a href="https://github.com/lillianphyo/python-gmail-api-test">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=lillianphyo&repo=python-gmail-api-test" />
 </a>
 
-<a href="https://github.com/lillianphyoe/Ansible-module-jupiter_netme">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=lillianphyoe&repo=Ansible-module-jupiter_netme" />
+<a href="https://github.com/lillianphyo/Ansible-module-jupiter_netme">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=lillianphyo&repo=Ansible-module-jupiter_netme" />
 </a>
 
