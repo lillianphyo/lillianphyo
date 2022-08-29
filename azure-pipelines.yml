@@ -8,6 +8,10 @@ trigger:
 
 pool:
   vmImage: ubuntu-latest
+- task: Docker@2
+  inputs:
+    command: 'buildAndPush'
+    Dockerfile: '**/Dockerfile'
 
 steps:
 - task: ArchiveFiles@2
