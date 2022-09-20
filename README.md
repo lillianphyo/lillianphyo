@@ -31,7 +31,7 @@ Make things happen. Adventurous and Realistic Happy-Go-Lucky stubborn optimistic
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on [Linux,Ansible,Docker,K8S,Calico,Python,Bash,Erlang];
+- 👨🏽‍💻 I’m currently working on [Linux,Ansible,Docker,K8S,Calico,Python,Bash,Erlang,MLZoomCamp];
 - 📫 How to reach me: khinpyaephyosan@gmail.com;
 <!--- - 📝[Resume](https://drive.google.com/file/d/1PzltvM67Nx7roHoU2mI5qeXE41PfYdGa/view?usp=sharing) -->
 
