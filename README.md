@@ -16,7 +16,7 @@
   <img align="left" alt="lillian's devnet" width="22px" src="src/cisco.svg" />
 </a>
 <a href="https://www.kaggle.com/lillianphyo">
-  <img align="left" alt="lillian's devnet" width="20px" src="src/kaggle.svg" />
+  <img align="left" alt="lillian's devnet" width="22px" src="src/kaggle.svg" />
 </a>
 
 <br />
