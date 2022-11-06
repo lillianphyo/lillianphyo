@@ -1,6 +1,6 @@
 ### Hey 👋🏽, I'm [Lillian!](https://about.me/lillianphyoe)    
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lillianphyo" alt="lillianphyo" /> </p>   
-<a href="https://www.youtube.com/c/KhinPyaePhyoSan">
+<a href="https://youtube.com/@lillianphyo">
   <img align="left" alt="lillian's Youtube" width="22px" src="src/youtube.svg" />
 </a>
 <a href="https://twitter.com/lillianphyo">
