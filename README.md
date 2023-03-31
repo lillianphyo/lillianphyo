@@ -18,6 +18,9 @@
 <a href="https://www.kaggle.com/lillianphyo">
   <img align="left" alt="lillian's devnet" width="22px" src="src/kaggle.svg" />
 </a>
+<a href="https://g.dev/lillianphyo">
+  <img align="left" alt="lillian's devnet" width="22px" src="src/google-dev.svg" />
+</a>
 
 <br />
 <br />
