@@ -28,7 +28,7 @@
 A System Engineer 🚀 who love System Integration. Passionate about Computer science and software engineering because anything I dream of can become a reality by using one tool,a computer.   
 
 Fav Quote:   
-Make things happen. Adventurous and Realistic Happy-Go-Lucky stubborn optimistic Gemini! ♊
+Make things happen. Adventurous and Realistic. Happy-Go-Lucky. stubborn optimistic Gemini! ♊
 
 <!--- <img align="right"  src="https://media1.tenor.com/images/e8a3b80ecb33fd79b04f093cccd2353b/tenor.gif?itemid=15853135" /> -->
   
