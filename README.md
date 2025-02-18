@@ -25,59 +25,45 @@
 <br />
 <br />
 
-A System Engineer 🚀 who love System Integration. Passionate about Computer science and software engineering because anything I dream of can become a reality by using one tool,a computer.   
+### About Me
 
-Fav Quote:   
-Make things happen. Adventurous and Realistic. Happy-Go-Lucky. stubborn optimistic Gemini! ♊
+Dynamic **Software Engineer** with **5 years of experience** in front-end design, OSS-BSS systems, system development, and AI/ML. I specialize in designing and implementing **scalable systems**, optimizing system response times, and developing autonomous AI-driven solutions.
+
+📌 **Fav Quote:** _"Make things happen. Adventurous and realistic. Happy-Go-Lucky. Stubborn optimist!♊"_
 
 <!--- <img align="right"  src="https://media1.tenor.com/images/e8a3b80ecb33fd79b04f093cccd2353b/tenor.gif?itemid=15853135" /> -->
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on [Linux,Ansible,Docker,K8S,Calico,Python,Bash,Erlang,DEZoomcamp];
-- 📫 How to reach me: khinpyaephyosan@gmail.com;
-<!--- - 📝[Resume](https://drive.google.com/file/d/1PzltvM67Nx7roHoU2mI5qeXE41PfYdGa/view?usp=sharing) -->
+📍 **Location:** Yangon, Myanmar  
+📧 **Email:** khinpyaephyosan@gmail.com  
+💼 **Current Role:** Lead Developer @ VPTechnologies  
+🌱 **Passionate about:** System Integration, AI/ML, Scalable Systems
 
-**Languages and Tools:**  
+## 💻 Skills
 
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/python.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/mysql.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/git.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/ansible.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/erlang.svg"></code>
-<code><img height="20" src="https://avatars0.githubusercontent.com/u/2165682?s=200&v=4"></code>
-<code><img height="20" src="https://avatars0.githubusercontent.com/u/8827988?s=200&v=4"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/linux.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/docker.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/prometheus.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/grafana.svg"></code>
-<code><img height="20" src="https://avatars1.githubusercontent.com/u/4561226?s=200&v=4"></code>
-<code><img height="20" src="https://avatars0.githubusercontent.com/u/5142645?s=200&v=4"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/elasticsearch.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/elasticstack.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/eclipsemosquitto.svg"></code>
-<code><img height="20" src="https://avatars3.githubusercontent.com/u/6178456?s=200&v=4"></code>
-<code><img height="20" src="https://avatars3.githubusercontent.com/u/24291394?s=200&v=4"></code>
-<code><img height="20" src="https://avatars3.githubusercontent.com/u/6748139?s=200&v=4"></code>
-<code><img height="20" src="https://avatars0.githubusercontent.com/u/1282630?s=200&v=4"></code>
-<code><img height="20" src="https://avatars3.githubusercontent.com/u/22860722?s=200&v=4"></code>
-<code><img height="20" src="https://avatars1.githubusercontent.com/u/30269780?s=200&v=4"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/kubernetes.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/vmware.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/amazonaws.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/nutanix.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/postman.svg"></code>
+- **Front-end:** HTML5, CSS3, TypeScript, jQuery, Bootstrap, Django, ShadCN
+- **Back-end:** Python, Flask, Node.js, Express, TypeORM, SQLAlchemy
+- **Web Services:** REST, GraphQL, Web API
+- **Testing & Documentation:** Postman, Swagger
+- **Databases:** MySQL, MariaDB, MongoDB, MSSQL, CockroachDB, MindsDB
+- **DataOps:** Apache NiFi, Mage.ai, Python
+- **MLOps:** Neptune.ai, Prefect.io, MLflow, Kubeflow
+- **ETL Frameworks:** Apache Airflow, Pandas, PySpark, Apache Hadoop
+- **Machine Learning:** PyTorch, TensorFlow, Scikit-learn, Keras
+- **DevOps & Cloud:** Docker, Kubernetes, AWS, GCP, CI/CD, Serverless Architecture
 
-**Operation System:**  
+## 📚 Education
 
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/windows.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/redhat.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/debian.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/freebsd.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/manjaro.svg"></code>
-<code><img height="20" src="https://avatars0.githubusercontent.com/u/5647000?s=200&v=4"></code>
+- 🎓 **Master’s Degree in Computer Science** *(2024)* - University of Information Technology
+- 🎓 **Bachelor’s Degree in Computer Science** *(2017)* - University of Information Technology
+
+---
+
+## 📖 Publications
+
+- **[DLOps: Developing Deep Learning Aided Burmese Rice Price Forecasting](https://doi.org/10.1109/ICAIT65209.2024.10754945)** *(11/2024)*
+- **[Cloud Cost Prediction with LSTM on Parametric Data](https://doi.org/10.1007/978-981-96-1531-5_50)** *(02/2025)*
 
 ![lillian's github stats](https://github-readme-stats.vercel.app/api?username=lillianphyo&show_icons=true&hide_border=true)
 
