@@ -65,7 +65,11 @@ Dynamic **Software Engineer** with **5 years of experience** in front-end design
 - **[DLOps: Developing Deep Learning Aided Burmese Rice Price Forecasting](https://doi.org/10.1109/ICAIT65209.2024.10754945)** *(11/2024)*
 - **[Cloud Cost Prediction with LSTM on Parametric Data](https://doi.org/10.1007/978-981-96-1531-5_50)** *(02/2025)*
 
-![lillian's github stats](https://github-readme-stats.vercel.app/api?username=lillianphyo&show_icons=true&hide_border=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=lillianphyo&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lillianphyo&layout=compact)
+
+![imyuanli's GitHub stats](https://github-readme-stats.vercel.app/api?username=lillianphyo&show_icons=true&theme=transparent)
 
 ⭐️ From [lillianphyoe](https://github.com/lillianphyo)
 
