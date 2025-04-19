@@ -35,7 +35,7 @@ Dynamic **Software Engineer** with **5 years of experience** in front-end design
   
 **Talking about Personal Stuffs:**
 
-📍 **Location:** Yangon, Myanmar  
+📍 **Location:** Saitama, Japan     
 📧 **Email:** khinpyaephyosan@gmail.com  
 💼 **Current Role:** Lead Developer @ VPTechnologies  
 🌱 **Passionate about:** System Integration, AI/ML, Scalable Systems
