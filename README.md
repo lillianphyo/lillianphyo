@@ -27,7 +27,7 @@
 
 ### About Me
 
-<p align="justify"> A passionate **researcher and developer** with expertise in Software Engineering, AI/ML, deep learning, and Ops. My work focuses on designing and deploying scalable machine learning systems that integrate advanced modeling techniques with robust operational workflows. With a strong foundation in predictive analytics, I have developed systems that address complex challenges in time-series forecasting and other domains. I am dedicated to bridging the gap between research and real-world applications, ensuring that solutions are both accurate and impactful.</p>
+<p align="justify"> A passionate <b>researcher and developer</b> with expertise in Software Engineering, AI/ML, deep learning, and Ops. My work focuses on designing and deploying scalable machine learning systems that integrate advanced modeling techniques with robust operational workflows. With a strong foundation in predictive analytics, I have developed systems that address complex challenges in time-series forecasting and other domains. I am dedicated to bridging the gap between research and real-world applications, ensuring that solutions are both accurate and impactful.</p>
 
 📌 **Fav Quote:** _"Make things happen. Adventurous and realistic. Happy-Go-Lucky. Stubborn optimist!♊"_
 
