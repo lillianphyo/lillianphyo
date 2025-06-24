@@ -27,7 +27,7 @@
 
 ### About Me
 
-Dynamic **Software Engineer** with **5 years of experience** in front-end design, OSS-BSS systems, system development, and AI/ML. I specialize in designing and implementing **scalable systems**, optimizing system response times, and developing autonomous AI-driven solutions.
+A passionate **researcher and developer** with expertise in Software Engineering, AI/ML, deep learning, and Ops. My work focuses on designing and deploying scalable machine learning systems that integrate advanced modeling techniques with robust operational workflows. With a strong foundation in predictive analytics, I have developed systems that address complex challenges in time-series forecasting and other domains. I am dedicated to bridging the gap between research and real-world applications, ensuring that solutions are both accurate and impactful.   
 
 📌 **Fav Quote:** _"Make things happen. Adventurous and realistic. Happy-Go-Lucky. Stubborn optimist!♊"_
 
